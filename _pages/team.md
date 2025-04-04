@@ -73,7 +73,7 @@ permalink: /team/
 
 <br>
 
-### 学部・博士前期（修士）学生
+### 学部生・大学院生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 

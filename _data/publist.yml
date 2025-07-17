@@ -1,11 +1,11 @@
 - title: "Conversational content is organized across multiple timescales in the brain."
-  image: 
-  description: 
+  image: Yamashita2025NHB.png
+  description: 対話中のヒト脳活動を大規模言語モデルの内部表現を用いて解析し、言語の生成と理解に関する脳内意味表現の共通性と相違点を明らかにしました。
   authors: Yamashita M, Kubo R, Nishimoto S
   link:
     url: https://doi.org/10.1038/s41562-025-02231-4
     display: Nature Human Behaviour (2025)
-  highlight: 0
+  highlight: 1
 
 - title: "Cortical representational geometry of diverse tasks reveals subject-specific and subject-invariant cognitive structures"
   image: 

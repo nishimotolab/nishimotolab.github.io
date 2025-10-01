@@ -1,3 +1,21 @@
+- title: "Ultra-high-density Neuropixels probes improve detection and identification in neuronal recordings"
+  image: 
+  description: 
+  authors: Ye Z, Shelton AM, Shaker JR, Boussard J, Colonell J, Birman D, Manavi S, Chen S, Windolf C, Hurwitz C, Yu H, Namima T, Pedraja F, Weiss S, Raducanu B, Ness TV, Jia X, Mastroberardino G, Rossi LF, Carandini M, Häusser M, Einevoll GT, Laurent G, Sawtell NB, Bair W, Pasupathy A, Lopez CM, Dutta B, Paninski L, Siegle JH, Koch C, Olsen SR, Harris TD, Steinmetz NA.
+  link:
+    url: https://doi.org/10.1016/j.neuron.2025.08.030
+    display: Neuron (2025)
+  highlight: 0
+
+- title: "Correspondence of high dimensional emotion structures elicited from video clips between humans and multimodal LLMs"
+  image: 
+  description: 
+  authors: Asanuma H, Koide-Majima N, Nakamura K, Horii T, Nishimoto S, Oizumi M.
+  link:
+    url: https://doi.org/10.1038/s41598-025-14961-6
+    display: Scientific Reports (2025)
+  highlight: 0
+
 - title: "Conversational content is organized across multiple timescales in the brain."
   image: Yamashita2025NHB.png
   description: 対話中のヒト全脳活動を大規模言語モデル（LLM）の内部表現を用いて解析し、言語の生成（発話）と理解（聴取）に関する脳内意味表現およびタイムスケールについて、その共通性と相違点を明らかにしました。本論文はNature Neuroscience誌のResearch Highlightでも紹介されました。

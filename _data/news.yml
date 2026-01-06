@@ -1,5 +1,14 @@
 - date: 【求人情報】
-  headline: "当研究室では助教または准教授を募集予定です。（詳しくは西本まで）"
+  headline: "当研究室では助教または准教授を<a href="https://www.fbs.osaka-u.ac.jp/_upload/news/news-06-20251120-01-01-ja.pdf">募集</a>しています。"
+
+- date: 2025年12月11日
+  headline: "Huixiang Yang特任研究員（大阪大学）らの論文がScientific Data誌に<a href='https://doi.org/10.1038/s41597-025-06359-w'>掲載</a>されました。"
+
+- date: 2025年11月29日
+  headline: "Timo Denkさん（Google DeepMind）、高木招へい准教授らの論文がNature Communications誌に<a href='https://doi.org/10.1038/s41467-025-66731-7'>掲載</a>されました。"
+
+- date: 2025年11月22日
+  headline: "小出（間島）研究員らが神経回路学会・論文賞を<a href="https://jnns.org/winner/2025%e5%b9%b4%e5%ba%a6/">受賞</a?しました。"
 
 - date: 2025年9月30日
   headline: "Zhiwen Ye研究員（ワシントン大学）らの論文がNeuron誌に<a href='https://doi.org/10.1016/j.neuron.2025.08.030'>掲載</a>されました。"

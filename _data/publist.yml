@@ -1,10 +1,19 @@
+- title: "Functional clusters for shape, texture, and motion encoding in macaque V2."
+  image: 
+  description: 
+  authors: Kim T, Kamath R, Hatanaka G, Namima T, Dylla C, Bair W, Pasupathy A.
+  link:
+    url: https://doi.org/10.1523/JNEUROSCI.1994-25.2026
+    display: Journal of Neuroscience (2026)
+  highlight: 0
+
 - title: "Longitudinal multitask wireless electrocorticography data from two fully implanted nonhuman primates"
   image: 
   description: 
   authors: Yang H, Fukuma R, Namima T, Okuda K, Nishi A, Iwata T, Reza A, Sasaki KS, Kaiju T, Gill G, Kishima H, Nishimoto S, Yanagisawa T.
   link:
     url: https://doi.org/10.1038/s41597-025-06359-w
-    display: Scientific Data (2025)
+    display: Scientific Data (2026)
   highlight: 0
 
 - title: "Text-to-music generation models capture musical semantic representations in the human brain"
@@ -13,7 +22,7 @@
   authors: Denk TI, Takagi Y, Matsuyama T, Agostinelli A, Nakai T, Frank C, Nishimoto S.
   link:
     url: https://doi.org/10.1038/s41467-025-66731-7
-    display: Nature Communications (2025)
+    display: Nature Communications (2026)
   highlight: 0
 
 - title: "Ultra-high-density Neuropixels probes improve detection and identification in neuronal recordings"

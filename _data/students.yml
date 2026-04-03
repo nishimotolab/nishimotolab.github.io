@@ -22,48 +22,12 @@
   number_educ: 0
   education1:
 
-- name: 千田 竣介
-  photo: rock.jpg
-  info: 生命機能研究科
-  email: 
-  number_educ: 0
-  education1:
-
-- name: 長弘 夢野
-  photo: rock.jpg
-  info: 生命機能研究科（認知脳科学研究グループ）
-  email: 
-  number_educ: 0
-  education1:
-
-- name: 前川 和生
-  photo: rock.jpg
-  info: 生命機能研究科（認知脳科学研究グループ）
-  email: 
-  number_educ: 0
-  education1:
-
-- name: 枡本 凌武
-  photo: rock.jpg
-  info: 生命機能研究科
-  email: 
-  number_educ: 0
-  education1:
-
 - name: 吉野 草太
   photo: rock.jpg
   info: 生命機能研究科
   email: 
   number_educ: 0
   education1:
-
-- name: 吉村 隆晟
-  photo: rock.jpg
-  info: 生命機能研究科
-  email: 
-  number_educ: 0
-  education1:
-
 
 - name: 倉本 多笑
   photo: rock.jpg
@@ -96,26 +60,48 @@
 
 - name: 小野 陽輝
   photo: rock.jpg
-  info: 基礎工学部生物工学コース
-  email: 
-  number_educ: 0
-  education1:
-
-- name: 片山 翔太
-  photo: rock.jpg
-  info: 基礎工学部生物工学コース
-  email: 
-  number_educ: 0
-  education1:
-
-- name: 小西 崚太
-  photo: rock.jpg
-  info: 基礎工学部生物工学コース
+  info: 生命機能研究科
   email: 
   number_educ: 0
   education1:
 
 - name: 原田 幸生
+  photo: rock.jpg
+  info: 生命機能研究科
+  email: 
+  number_educ: 0
+  education1:
+
+
+- name: 奥澤 由翔
+  photo: rock.jpg
+  info: 基礎工学部生物工学コース
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 粕谷 環太
+  photo: rock.jpg
+  info: 基礎工学部生物工学コース
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 中迫 月美子
+  photo: rock.jpg
+  info: 基礎工学部生物工学コース
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 又市 麻里亜
+  photo: rock.jpg
+  info: 基礎工学部生物工学コース
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 松岡 勝己
   photo: rock.jpg
   info: 基礎工学部生物工学コース
   email: 

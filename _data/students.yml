@@ -52,11 +52,11 @@
   education1:
 
 - name: 土屋 佑奈
-  photo: rock.jpg
+  photo: img_yt.jpg
   info: 生命機能研究科
   email: 
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: <a href="https://yuna-tsuchiya.github.io/">https://yuna-tsuchiya.github.io/</a>
 
 
 - name: 阿部 克磨

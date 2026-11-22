@@ -1,11 +1,11 @@
 - title: "Cross-domain encoding models reveal shared and domain-specific neural representations across language and mathematics"
   image: nakai_press_eyecatch.jpg
-  description: 読解と数学には共通する脳内情報表現があることを大規模言語モデル（LLM）の内部表現を介した脳活動解析によって明らかにしました。
+  description: 読解と計算には共通する脳内情報表現があることを大規模言語モデル（LLM）の内部表現を介した脳活動解析によって明らかにしました。
   authors: Nakai T, Kubo R, Nishimoto S
   link:
     url: https://doi.org/10.1126/sciadv.aej5555
     display: Science Advances (2026)
-  highlight: 0
+  highlight: 1
 
 - title: "Decoding individual differences in mental information from human brain responses predicted by deep neural networks"
   image: 
@@ -26,13 +26,13 @@
   highlight: 0
 
 - title: "LaVCa: LLM-assisted Visual Cortex Captioning"
-  image: 
-  description: 
+  image: lavca.png
+  description: 複雑な脳内情報表現を解釈性の高い自然言語で記述するための枠組みLaVCaを開発しました。
   authors: Matsuyama T, Nishimoto S, Takagi Y
   link:
     url: https://openreview.net/pdf?id=QlsjfYADcg
     display: International Conference on Learning Representations (ICLR) (2026)
-  highlight: 0
+  highlight: 1
 
 - title: "Functional clusters for shape, texture, and motion encoding in macaque V2."
   image: 
@@ -53,13 +53,13 @@
   highlight: 0
 
 - title: "Text-to-music generation models capture musical semantic representations in the human brain"
-  image: 
-  description: 
+  image: Denl_music.png
+  description: 音楽を聞いている時の脳活動と音楽生成AIの潜在表現の関係を解析し、その意味的対応等を明らかにしました（Google Deepmindとの共同研究）。
   authors: Denk TI, Takagi Y, Matsuyama T, Agostinelli A, Nakai T, Frank C, Nishimoto S.
   link:
     url: https://doi.org/10.1038/s41467-025-66731-7
     display: Nature Communications (2026)
-  highlight: 0
+  highlight: 1
 
 - title: "Ultra-high-density Neuropixels probes improve detection and identification in neuronal recordings"
   image: 

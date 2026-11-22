@@ -1,3 +1,21 @@
+- title: "Cross-domain encoding models reveal shared and domain-specific neural representations across language and mathematics"
+  image: nakai_press_eyecatch.jpg
+  description: 読解と数学には共通する脳内情報表現があることを大規模言語モデル（LLM）の内部表現を介した脳活動解析によって明らかにしました。
+  authors: Nakai T, Kubo R, Nishimoto S
+  link:
+    url: https://doi.org/10.1126/sciadv.aej5555
+    display: Science Advances (2026)
+  highlight: 0
+
+- title: "Decoding individual differences in mental information from human brain responses predicted by deep neural networks"
+  image: 
+  description: 
+  authors: Kawahata K, Wang J, Blanc A, Maeda N, Nishimoto S, Nishida S.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2026.122312
+    display: NeuroImage (2026)
+  highlight: 0
+
 - title: "A comparative analysis of attitudes toward neuroscience and the application of information on the brain between the public and neuroscientists in Japan"
   image: 
   description: 
